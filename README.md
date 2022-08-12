@@ -1,3 +1,3 @@
 # conflict
 
-## This is a subheading creatd on Github
+## This is a subheading created locallly
